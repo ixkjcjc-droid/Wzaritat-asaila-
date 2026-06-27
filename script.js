@@ -1,0 +1,1 @@
+console.log("Wzariat Plus Ready");
